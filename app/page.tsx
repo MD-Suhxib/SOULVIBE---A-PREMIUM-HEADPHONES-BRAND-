@@ -131,11 +131,11 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-lg"></div>
             </div>
             <div className="max-w-md text-center md:text-left">
-              <h3 className="text-2xl font-semibold mb-2">Sony WH-1000XM4</h3>
+              <h3 className="text-2xl font-semibold mb-2">SoulVibe WH-1000X</h3>
               <p className="text-lg text-gray-300 mb-4">
                 Wireless Noise Cancelling Headphones
               </p>
-              <p className="text-3xl font-bold text-purple-400 mb-4">$349.73</p>
+              <p className="text-3xl font-bold text-purple-400 mb-4">₹ 3499.73</p>
               <p className="text-gray-400 mb-6">
                 Experience unparalleled sound quality with industry-leading noise cancellation. Perfect for music lovers and professionals alike, the Sony WH-1000XM4 offers up to 30 hours of battery life, touch controls, and exceptional comfort for all-day wear.
               </p>
@@ -158,7 +158,7 @@ export default function Home() {
             <div className="flex flex-col items-center text-center">
               <div className="w-48 h-48 rounded-full overflow-hidden mb-4">
                 <Image
-                  src="/founder1.jpg?height=192&width=192"
+                  src="/hero-image.jpeg?height=192&width=192"
                   width={192}
                   height={192}
                   alt="Founder 1"
