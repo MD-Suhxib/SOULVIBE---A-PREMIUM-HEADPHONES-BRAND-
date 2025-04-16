@@ -175,7 +175,7 @@ export default function Home() {
             <div className="flex flex-col items-center text-center">
               <div className="w-48 h-48 rounded-full overflow-hidden mb-4">
                 <Image
-                  src="/founder2.jpg?height=192&width=192"
+                  src="/founder2.jpeg?height=192&width=192"
                   width={192}
                   height={192}
                   alt="Founder 2"
